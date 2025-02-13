@@ -3,4 +3,4 @@ https://www.figma.com/design/SASyBm2k3IlqrO8qI1Otg1/React%3A-constru%C3%ADndo-co
 
 
 # Continuar em:
-https://cursos.alura.com.br/course/react-configurando-estruturando-projetos-vite/task/148689
+https://cursos.alura.com.br/course/react-configurando-estruturando-projetos-vite/task/148103
